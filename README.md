@@ -3,6 +3,8 @@ In this project a Linear Regression is used to predict the number of medals a co
 
 Data is originally from https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results and summarized by country by Dataquest
 
+Columns:
+
 Team - National Olympic Committee 3-letter code
 
 Country - Country name
